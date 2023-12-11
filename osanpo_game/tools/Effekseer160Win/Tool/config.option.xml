@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EffekseerProject>
+  <Option>
+    <LanguageSelector>ja</LanguageSelector>
+  </Option>
+  <Environment>
+    <Background>
+      <BackgroundImage>C:/Users/miroku/Documents/Visual Studio 2022/Projects/GameTemplate - コピー/tools/Effekseer160Win/13_01_Sample/Texture/Background.png</BackgroundImage>
+    </Background>
+  </Environment>
+</EffekseerProject>
